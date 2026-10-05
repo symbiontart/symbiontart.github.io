@@ -1,0 +1,6 @@
+# robots.txt fuer symbiontart.github.io (gilt fuer alle Unterseiten dieses Hosts)
+# Suchmaschinen lesen robots.txt nur im Wurzelverzeichnis des Hosts.
+User-agent: *
+Allow: /
+
+Sitemap: https://symbiontart.github.io/verlag-von-bedeutung/sitemap.xml
